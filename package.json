@@ -1,0 +1,19 @@
+{
+  "name": "grunt-project",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Forrest Wilson-Jennings",
+  "license": "ISC",
+  "description": "This is a Grunt test project",
+  "keywords": [
+    "Grunt",
+    "NPM",
+    "Node"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
