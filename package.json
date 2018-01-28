@@ -17,7 +17,9 @@
     "bootstrap": "^4.0.0",
     "jquery": "^3.3.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/forrest-wilson/yb-dv-grunt-project.git"
