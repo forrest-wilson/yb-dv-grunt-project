@@ -1,0 +1,15 @@
+$redColor: red;
+$center: 0 auto;
+
+html {
+    border: 1px solid brown;
+    margin: $center;
+
+    body {
+        background-color: lightblue;
+
+        h1 {
+            color: $redColor;
+        }
+    }
+}

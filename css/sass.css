@@ -1,0 +1,9 @@
+html {
+  border: 1px solid brown;
+  margin: 0 auto; }
+  html body {
+    background-color: lightblue; }
+    html body h1 {
+      color: red; }
+
+/*# sourceMappingURL=sass.css.map */
